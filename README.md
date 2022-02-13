@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Bmocc
-- 👀 I’m interested in becoming a full-time developer!
-- 🌱 I’m currently learning Python, full stack developer (JS, C++, CSS, HTML, SQL, Java)
+- 👋 Hi, I’m Brandon!
+- 👀 I’m interested in becoming a data scientist/machine learning engineer!
+- 🌱 I’m currently building out my portfolio with projects focused on Python fundamentals, data analyisis, and machine learning!
 - 💞️ I’m looking to collaborate on anything! I would love to start a side project for fun!
-- 📫 How to reach me; IG: bmocc_; Email: bmocc92@yahoo.com
+- 📫 How to reach me; LinkedIn: Brandon Mocco; Email: bmocc92@yahoo.com
 
-<!---
-Bmocc/Bmocc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
